@@ -1,3 +1,12 @@
+
+html {
+  color: #F7F6F2;
+}
+
+body {
+  background-color: #F7F6F2 !important;
+
+}
 .App {
   text-align: center;
 }
@@ -13,19 +22,25 @@
   }
 }
 
+.App-hea
+input, textarea{
+  background-color:#666;
+  color: #FFF;
+}
+
 .App-header {
-  background-color: #282c34;
+  background-color: #EEEE;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: FFE3D8;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #FFE3D8;
 }
 
 @keyframes App-logo-spin {
