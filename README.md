@@ -1,3 +1,7 @@
+# Basic Product-Category Application with React Components
+
+Same project with React Redux : https://github.com/mutabay/intro-redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
